@@ -13,4 +13,4 @@
 - **Physics Shadow Relief Formulation:**
   $$h = \frac{H \cdot L_s}{R + L_s}$$
 
-![Sonar Detection Output](download (3).jpg)
+![Sonar Detection Output](assets/nayansagar_verified_wreck.jpg)
